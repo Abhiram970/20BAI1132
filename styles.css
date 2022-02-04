@@ -1,0 +1,295 @@
+.button {
+    border: none;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    cursor: pointer;
+    border-radius: 16px;
+    font-size: 30px;
+    position: relative;
+    top: 40%;
+    left: 45%;
+}
+
+.button2
+{
+    border: none;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    cursor: pointer;
+    border-radius: 16px;
+    margin-left: 400px;
+    margin-top: 30px;
+    font-size: 30px;
+    font-family: 'Reem Kufi', sans-serif;
+}
+  
+.font
+{
+    font-family: 'Reem Kufi', sans-serif;
+    color: #fff;
+}
+.ro
+{
+    position: relative;
+    bottom: 90px;
+}
+.zbc-logo
+{
+    position: relative;
+    width: 15%;
+    left: 80px;
+    top: 140px;
+}
+.new-log
+{
+    position: relative;
+    width: 20%;
+    left: 80px;
+    top: 140px;
+    
+}
+.about1
+{
+    position: relative;
+    top: 140px;
+    text-align: right;
+    right: 190px;
+    font-size: 60px;
+}
+.about2
+{
+    position: relative;
+    top: 120px;
+    text-align: left;
+    left: 70px;
+    font-size: 60px;
+    padding-bottom: 40px;
+}
+
+.para1
+{
+    position: relative;
+    bottom: 30px;
+    padding-left: 500px;
+    font-size: 30px;
+    font: Monserrat;
+    color: #fff;
+    
+}
+.para2
+{
+    position: relative;
+    bottom: 130px;
+    padding-left: 500px;
+    font-size: 30px;
+    font: Monserrat;
+    color: #fff;
+}
+#aboutus
+{
+    background-color: #501856;
+}
+
+#title
+{
+    background-color: #501856;
+    padding-bottom: 100px;
+    font-family: 'Reem Kufi', sans-serif;
+}
+.wave1
+{
+    position: relative;
+    top: 130px;
+    left: 1px;
+    width: 100%;
+    z-index: 1;
+}
+.wave2
+{
+    object-fit: cover;
+    z-index: 0;
+}
+.z
+{
+    position: absolute;
+    margin-top: 60px;
+    left:480px;
+    font-size: 100px;
+}
+.zo
+{
+    object-fit: cover;
+    z-index: 2;
+    position: absolute;
+    left:30px;
+    width: auto;
+}
+.para11
+{
+    position: absolute;
+    text-align: center;
+    font-size: 30px;
+    font: Monserrat;
+    color: #fff;
+    padding-top: 220px;
+}
+.nav-stuff
+{
+    margin-top:40px;
+    margin-right: 50px;
+}
+.nav-link
+{
+    color: #fff;
+    margin-right: 20px; 
+    font-size: x-large;
+}
+.rocket
+{
+    object-fit: cover;
+    width: 100px;
+    height: 100px;
+    position: relative;
+    right: 630px;
+    top: 20px;
+}
+.color
+{
+    color: #fff;
+}
+.position-h
+{
+    font-weight: 600;
+    font-size: 80px;
+    position: relative;
+    top: 150px;
+    left: 160px;
+}
+.position-b
+{
+    position: relative;
+    top: 150px;
+    left: 60px;
+    text-align: center;
+    font-size: 40px;
+}
+.position-c
+{
+    position: relative;
+    top: 240px;
+    right: 400px;
+    text-align: center;
+    font-size: 50px;
+    font-family: 'Reem Kufi', sans-serif;
+}
+.home-roc
+{
+    position: relative;
+    left: 200px;
+    top: 80px;
+}
+.moon
+{
+    text-align: center;
+    position: relative;
+    left: 20px;
+    font-family: 'Roboto', sans-serif;
+    color: #5f0a87;
+    font-size: 80px;
+
+}
+.imgrow
+{
+    width: auto;
+}
+.center {
+    margin: auto;
+    width: 100%;
+    padding-left: 5%;
+  }
+.pad-right
+{
+    padding-right: 100px;
+}
+/* external css: flickity.css */
+
+* { box-sizing: border-box; }
+
+body { font-family: sans-serif; }
+
+.carousel {
+  background: #FAFAFA;
+}
+
+.carousel-cell {
+  width: 20%;
+  height: 300px;
+  margin-right: 10px;
+  background: #fff;
+}
+
+.carousel-cell-image {
+  display: block;
+  max-height: 100%;
+  margin: 0 auto;
+  max-width: 100%;
+  opacity: 0;
+  -webkit-transition: opacity 0.4s;
+          transition: opacity 0.4s;
+}
+
+/* fade in lazy loaded image */
+.carousel-cell-image.flickity-lazyloaded,
+.carousel-cell-image.flickity-lazyerror {
+  opacity: 1;
+}
+
+.col-pa
+{
+    text-align: center;
+    padding: 2% 2% 0% 2%;
+}
+.card
+{
+    background-color: #b011c2;
+    border-radius: 10%
+}
+.moon2
+{
+    position: relative;
+    left: 50px;
+    font-family: 'Reem Kufi', sans-serif;
+    color: #5f0a87;
+    font-size: 100px;
+}
+#map {
+    height: 650px;
+    /* The height is 400 pixels */
+    width: 80%;
+    position: relative;
+    left: 40px;
+    /* The width is the width of the web page */
+  }
+.foot
+{
+    position: relative;
+    top: 270px;
+    left: 1400px;
+}
+.buttons
+{
+    position: relative;
+    bottom: 100px;
+    left: 1000px;
+}
+.position-d
+{
+    position: relative;
+    bottom: 260px;
+    left: 350px;
+    text-align: center;
+    font-size: 35px;
+    font-family: 'Reem Kufi', sans-serif;
+}
